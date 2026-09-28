@@ -813,7 +813,3 @@ venv/
 
 Do not assume in advance that VMs or containers will always perform better. The purpose of this project is to measure actual behaviour under controlled conditions. The final conclusion must rest on the collected measurements, repeated runs, statistical analysis, and documented configuration.
 
-## License
-
-_Add a license of your choice (e.g. MIT)._
-
